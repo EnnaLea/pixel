@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Tests\\Unit\\JobTest::test_job_belongs_to_employer":8},"times":{"Tests\\Unit\\ExampleTest::test_that_true_is_true":0.124,"Tests\\Unit\\JobTest::test_example":0.06,"Tests\\Feature\\ExampleTest::test_the_application_returns_a_successful_response":2.41,"Tests\\Unit\\JobTest::test_job_belongs_to_employer":1.562}}
